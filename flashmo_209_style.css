@@ -1,0 +1,51 @@
+p {
+	font-family: 'Custom2', Tempus Sans ITC, Papyrus , Kristen ITC, Bradley Hand ITC;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+
+a {
+font-family: 'Custom2', Tempus Sans ITC, Papyrus , Kristen ITC, Bradley Hand ITC;
+	color: #99CCFF;
+	text-decoration: underline;
+}
+
+a:hover {
+font-family: 'Custom2', Tempus Sans ITC, Papyrus , Kristen ITC, Bradley Hand ITC;
+	color: #FFFF00;
+	text-decoration: none;
+}
+
+.title {
+	font-family: 'Custom2', Tempus Sans ITC, Papyrus , Kristen ITC, Bradley Hand ITC;
+	font-size: 32px;
+	color: #A6F213;
+}
+
+.subtitle {
+	font-family: 'Custom2', Tempus Sans ITC, Papyrus , Kristen ITC, Bradley Hand ITC;
+	font-size: 20px;
+	color: #CCFF00;
+}
+
+@font-face {
+  font-family: 'Custom2';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Custom2'), url('TEMPSITC.TTF') format('truetype');
+}
+
+.highlight {
+font-family:  'Custom2',"Tempus Sans ITC", Papyrus , Kristen ITC, Bradley Hand ITC;
+	color: #0098CC;
+	font-weight: bold;
+}
+.highlight2 {
+	color: #0098CC;
+}
+.note {
+	font-family: 'Custom2', Tempus Sans ITC, Papyrus , Kristen ITC, Bradley Hand ITC;
+	font-size: 13px;
+	color: #CCCCCC;
+}
+ 

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<item>
+		<content>
+		    <![CDATA[<span class="title">Forma de Pago:</span>
+				<p align="justify">Por Transferencia ó Ingreso Bancario, una vez recibido el justificante de pago se procederá a la preparación del pedido.
+				Los plazos de entrega aproximadamente serán entre diez y quince días dependiendo del volumen del pedido
+				<span class="title">Condiciones de Envio y Tarifas</span>
+				Los envíos hasta 30€ se enviaran por correo certificado y su coste será el siguiente:
+				De 1 a 10€, el coste será de   3€
+				De 10 a 20€, el coste será de 3.75€
+				De 20 a 30€, el coste será de  4,50€
+				Cuando el envio superiores a los 30€ y hasta los 60€ los envíos se harán por paquete azul certificado, con un coste de 6€.
+				A partir de los 60€ los envíos se harán mediante agencia de transportes y el coste se determinara en el momento de realizar la compra.</p> 
+			]]>
+		</content>
+	</item>
+</items>
