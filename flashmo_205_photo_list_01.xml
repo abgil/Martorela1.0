@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <photos>
+    <photo>
+		<filename>DSC00373_n.JPG</filename>
+		<title>Diadema Madroño</title>
+		<description>
+			Con Madroño en tonos morados, la diadema blanca se puede hacer también en morado y marino.
+			<span class="highlight">Ref: i13/04/mo</span>
+		</description>
+	</photo>
 	<photo>
-		<filename>12 090_n.JPG</filename>
+		<filename>12 090.JPG</filename>
 		<title>Diadema Piruleta</title>
 		<description>
 			Diadema de 1 cm con piruleta realizada en cinta de raso con pasamanería azul cielo
@@ -12,7 +20,7 @@
 		</description>
 	</photo>
 	<photo>
-		<filename>12 092_n.JPG</filename>
+		<filename>12 092.JPG</filename>
 		<title>Capricho</title>
 		<description>
 			<p>Caprichosa Diadema de 2 cm realizada en cinta de raso y cinta de encaje en azul marino</p>
