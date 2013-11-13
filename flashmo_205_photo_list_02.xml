@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <photos>
+    <photo>
+		<filename>Noviembre 115_n.JPG</filename>
+		<title>Mis Zapatos</title>
+		<description><p>Colección coleteros de zapatos vintage, se venden por unidad.</p><span class="highlight">Ref: i13/11</span></description>
+	</photo>
 	<photo>
 		<filename>DSC00366_n.JPG</filename>
 		<title>Coletero Madroño</title>
