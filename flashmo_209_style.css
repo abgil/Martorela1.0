@@ -29,7 +29,7 @@ a:hover {
   font-family: 'Custom2';
   font-style: normal;
   font-weight: normal;
-  src: local('Custom2'), url('TEMPSITC.TTF') format('truetype');
+  src: local('Custom2'), url('Resources/TEMPSITC.TTF') format('truetype');
 }
 
 .highlight {
