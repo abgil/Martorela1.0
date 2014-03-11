@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <photos>
+    <photo>
+		<filename>Clic Zapato Piruleta_n.JPG</filename>
+		<title>Clic Zapato Piruleta</title>
+		<description><p>Clic para zapato Piruleta, convierte una sencilla bailarina en un zapato especial</p>
+			<span class="highlight">Ref: 014/01/bg</span>
+		</description>
+	</photo>
+    <photo>
+		<filename>Clic Zapato Martorela_n.JPG</filename>
+		<title>Clic Zapato Martorela</title>
+		<description><p>Clic para zapato Martorela convierte una sencilla bailarina en un zapato especial</p>
+			<span class="highlight">Ref: 014/02/bg</span>
+		</description>
+	</photo>
 	<photo>
-		<filename>2013 015_n.JPG</filename>
+		<filename>2013 015.JPG</filename>
 		<title>Cinta Piruleta</title>
 		<description><p>Cinta realizada en groge y cinta de raso con flor Piruleta</p>
 			<span class="highlight">Ref: 013/05/bg</span>
 		</description>
 	</photo>
 	<photo>
-		<filename>2013 001_n.JPG</filename>
+		<filename>2013 001.JPG</filename>
 		<title>Cinta Martorela</title>
 		<description><p>Cinta realizada en groge y cinta de raso con flor Martorela</p>
 			<span class="highlight">Ref: 013/06/bg</span>
 		</description>
 	</photo>
 	<photo>
-		<filename>comunion_001_n.JPG</filename>
+		<filename>comunion_001.JPG</filename>
 		<title>Simay</title>
 		<description><p>Diadema Simay con flor en sinamay</p>
 			<span class="highlight">Ref: c13/01/bg</span>
@@ -23,7 +37,7 @@
 		</description>
 	</photo>
 	<photo>
-		<filename>comunion_008_n.JPG</filename>
+		<filename>comunion_008.JPG</filename>
 		<title>Simaran</title>
 		<description><p>Diadema Simaran con flor en sinamay con plumas</p>
 			<span class="highlight">Ref: c13/02/bg</span>
@@ -31,7 +45,7 @@
 		</description>
 	</photo>
 	<photo>
-		<filename>comunion_014_n.JPG</filename>
+		<filename>comunion_014.JPG</filename>
 		<title>Sinaran</title>
 		<description><p>Coletero Sinaran con flor en sinamay con plumas, se puede hacer también en peineta, pasador, horquilla o pico pato..</p>
 			<span class="highlight">Ref: c13/03/bg</span>
@@ -39,7 +53,7 @@
 		</description>
 	</photo>
 	<photo>
-		<filename>comunion_017_n.JPG</filename>
+		<filename>comunion_017.JPG</filename>
 		<title>Simay</title>
 		<description><p>Coletero Simay con folor en sinamay, se puede hacer también en peineta, pasador, horquilla o pico pato...</p>
 			<span class="highlight">Ref: c13/04/bg</span>
