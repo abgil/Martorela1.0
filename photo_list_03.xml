@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <photos>
+	<photo>
+		<filename>marzo 131_n.JPG</filename>
+		<title>Coronita Angelito</title>
+		<description><p>Coronita de raso y tubillo con flores secas, se puede realizar también en diadema.</p>
+			<span class="highlight">Ref: 014/05/cr</span>
+		</description>
+	</photo>
+	<photo>
+		<filename>marzo 142_n.JPG</filename>
+		<title>Lazo Yute</title>
+		<description><p>Diadema de ceremonia con lazo de yute de 4cm</p>
+			<p>“Elegante con un toque más informal”</p>
+			<span class="highlight">Ref: 014/03/bg</span>
+		</description>
+	</photo>
+	<photo>
+		<filename>comunión2014 001_n.JPG</filename>
+		<title>Prendidos Minisay</title>
+		<description><p>Florecitas realizadas en Sinamay, en pinza y clic para zapato.</p>
+			<span class="highlight">Ref: 014/04/bgcr</span>
+		</description>
+	</photo>
     <photo>
-		<filename>Clic Zapato Piruleta_n.JPG</filename>
+		<filename>Clic Zapato Piruleta.JPG</filename>
 		<title>Clic Zapato Piruleta</title>
 		<description><p>Clic para zapato Piruleta, convierte una sencilla bailarina en un zapato especial</p>
 			<span class="highlight">Ref: 014/01/bg</span>
 		</description>
 	</photo>
     <photo>
-		<filename>Clic Zapato Martorela_n.JPG</filename>
+		<filename>Clic Zapato Martorela.JPG</filename>
 		<title>Clic Zapato Martorela</title>
 		<description><p>Clic para zapato Martorela convierte una sencilla bailarina en un zapato especial</p>
 			<span class="highlight">Ref: 014/02/bg</span>
