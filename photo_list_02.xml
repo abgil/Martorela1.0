@@ -1,22 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <photos>
+	<photo>
+		<filename>IMG_8502_n.JPG</filename>
+		<title>Lazo Marinero</title>
+		<description><p>Lazo realizado con yute de dos colores, se puede hacer como coletero, pinza y diadema.</p>
+			<p>¡Nos vamos a la Playa!</p>
+			<span class="highlight">Ref: 014/07/ma</span>
+		</description>
+	</photo>
+	<photo>
+		<filename>IMG_8506_n.JPG</filename>
+		<title>Hortensia</title>
+		<description><p>Lazo realizado con yute y flor de tela , se puede hacer como coletero, pinza y diadema.</p>
+			<span class="highlight">Ref: 014/08/nj</span>
+		</description>
+	</photo>
+	<photo>
+		<filename>IMG_8495_n.JPG</filename>
+		<title>Colección Verano</title>
+		<description><p>Divertidos coleteros y diademas realizados en yute con múltiple combinación de colores.</p>
+			<span class="highlight">Ref: 014/06/rj</span>
+		</description>
+	</photo>
     <photo>
-		<filename>Noviembre 115_n.JPG</filename>
+		<filename>Noviembre 115.JPG</filename>
 		<title>Mis Zapatitos</title>
 		<description><p>Colección coleteros de Zapatitos vintage, se venden por unidad.</p><span class="highlight">Ref: i13/11</span></description>
 	</photo>
 	<photo>
-		<filename>DSC00366_n.JPG</filename>
+		<filename>DSC00366.JPG</filename>
 		<title>Coletero Madroño</title>
 		<description><p>En tonos marrones muy otoñal también en diadema.</p><span class="highlight">Ref: i13/02/ur</span></description>
 	</photo>
 	<photo>
-		<filename>DSC00372_n.JPG</filename>
+		<filename>DSC00372.JPG</filename>
 		<title>Coletero Madroño</title>
 		<description><p>En negro y blanco un básico de siempre, también en diadema.</p><span class="highlight">Ref: i13/03/gr</span></description>
 	</photo>
 	<photo>
-		<filename>DSC00370_n.JPG</filename>
+		<filename>DSC00370.JPG</filename>
 		<title>Coletero Madroño</title>
 		<description><p>En tonos morados, muy alegre y combinable, también en diadema.</p><span class="highlight">Ref: i13/01/mo</span></description>
 	</photo>
